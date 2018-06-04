@@ -14,6 +14,9 @@ If any libraries are missing, they may be easily installed with the command pip 
 - seaborn
 - scipy  
 - thecypher 
+- gensim 
+- spaCy
+
 
 **Repository Structure**  
 - code: Contains scripts to run  
